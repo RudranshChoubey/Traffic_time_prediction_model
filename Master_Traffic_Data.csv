@@ -1,0 +1,56 @@
+Vehicle No.,Class,Actual Start Time,Start Time (Elapsed Sec),Time to 500m (sec),Time to 1km (sec),Bottleneck Delay (sec),HVs Encountered,LVs Encountered,Remarks
+9157,Car,11:12:00 AM,120,134.46,234.0,3.0,59.0,66.0,Actual Manual Data
+5903,Truck,11:24:00 AM,840,202.45,251.0,5.0,63.0,71.0,Actual Manual Data
+785,Van,11:29:00 AM,1140,148.47,210.0,0.0,53.0,59.0,Actual Manual Data
+4920,Bus,11:33:00 AM,1380,95.51,210.0,3.0,53.0,59.0,Actual Manual Data
+6564,Bus,11:38:00 AM,1680,103.06,256.0,4.0,65.0,72.0,Actual Manual Data
+6352,Bike,11:45:00 AM,2100,165.99,226.0,7.0,57.0,64.0,Actual Manual Data
+3561,Auto,11:50:00 AM,2400,192.73,254.0,2.0,64.0,72.0,Actual Manual Data
+8152,Van,12:07:00 PM,3420,187.29,252.0,1.0,64.0,71.0,Actual Manual Data
+9057,Scooter,12:13:00 PM,3780,118.13,210.0,4.0,53.0,59.0,Actual Manual Data
+1470,Bike,05:08:03 PM,123,1173.0,1236.0,0.0,437.0,488.0,Actual Manual Data (Clock Synced)
+3724,Car,05:14:35 PM,515,CNS,220.0,0.0,,,Raw Data (Could Not See 500m)
+3724 (EST),Car,05:14:35 PM,515,121.0,220.0,0.0,77.0,86.0,500m estimated value as we could not see the car due to excessive traffic
+9124,Car,05:14:43 PM,523,132.0,240.0,0.0,84.0,94.0,Actual Manual Data (Clock Synced)
+2289,Bus,05:15:40 PM,580,440.0,495.0,0.0,175.0,195.0,Actual Manual Data (Clock Synced)
+2247,Bus,05:19:43 PM,823,132.0,240.0,6.0,84.0,94.0,Actual Manual Data (Clock Synced)
+3972,Truck,05:20:37 PM,877,132.0,240.0,4.0,84.0,94.0,Actual Manual Data (Clock Synced)
+9424,Car,05:22:25 PM,985,132.0,240.0,2.0,84.0,94.0,Actual Manual Data (Clock Synced)
+1807,Bus,05:23:46 PM,1066,CNS,95.0,0.0,,,Raw Data (Could Not See 500m)
+1807 (EST),Bus,05:23:46 PM,1066,31.0,95.0,0.0,33.0,37.0,500m estimated value as we could not see the car due to excessive traffic
+129,Bus,05:25:17 PM,1157,46.0,122.0,10.0,43.0,48.0,Actual Manual Data (Clock Synced)
+8831,Car,05:27:40 PM,1300,96.0,175.0,0.0,61.0,69.0,Actual Manual Data (Clock Synced)
+4665,Bus,05:29:53 PM,1433,123.0,183.0,10.0,64.0,72.0,Actual Manual Data
+4896,Car,05:30:01 PM,1441,223.0,VNR,0.0,,,Raw Data (Vehicle Not Reached 1km)
+4896 (EST),Car,05:30:01 PM,1441,223.0,255.0,0.0,90.0,100.0,1km estimated value as we could not see the car due to excessive traffic
+3030,Car,05:31:14 PM,1514,91.0,145.0,0.0,51.0,57.0,Actual Manual Data
+8449,Bus,05:32:56 PM,1616,100.0,148.0,0.0,52.0,58.0,Actual Manual Data
+4331,Car,05:34:14 PM,1694,291.0,349.0,0.0,123.0,137.0,Actual Manual Data
+376,Bus,05:40:10 PM,2050,131.0,216.0,0.0,76.0,85.0,Actual Manual Data
+8105,Car,05:40:48 PM,2088,114.0,188.0,0.0,66.0,74.0,Actual Manual Data
+6653,Bus,05:47:35 PM,2495,110.0,208.0,10.0,73.0,82.0,Actual Manual Data
+8926,Car,05:48:20 PM,2540,180.0,VNR,0.0,,,Raw Data (Could Not See 1km)
+8926 (EST),Car,05:48:20 PM,2540,180.0,333.0,0.0,117.0,131.0,1km estimated value as we could not see the car due to excessive traffic
+4984,Car,05:48:57 PM,2577,164.0,303.0,0.0,107.0,119.0,Actual Manual Data
+4588,Car,05:49:36 PM,2616,168.0,221.0,2.0,78.0,87.0,Actual Manual Data
+5707,Bus,05:51:45 PM,2745,111.0,202.0,17.0,71.0,79.0,Actual Manual Data
+3249,Car,05:52:38 PM,2798,46.0,220.0,0.0,77.0,86.0,Actual Manual Data
+1214,Car,05:54:10 PM,2890,135.0,217.0,20.0,76.0,85.0,Actual Manual Data
+2030,Car,05:55:43 PM,2983,161.0,273.0,36.0,96.0,107.0,Actual Manual Data
+1920,Car,05:56:21 PM,3021,219.0,308.0,30.0,109.0,121.0,Actual Manual Data
+9500,Car,06:01:38 PM,3338,199.0,230.0,0.0,81.0,90.0,Actual Manual Data
+2228,Bus,06:02:14 PM,3374,218.0,244.0,25.0,86.0,96.0,Actual Manual Data
+1155,Car,06:03:10 PM,3430,169.0,218.0,0.0,77.0,86.0,Actual Manual Data
+174,Car,06:07:52 PM,3712,150.0,209.0,10.0,73.0,82.0,Actual Manual Data
+5298,Truck,06:08:30 PM,3750,146.0,VNR,3.0,,,Raw Data (Could Not See 1km)
+5298 (EST),Truck,06:08:30 PM,3750,146.0,270.0,3.0,95.0,106.0,1km estimated value as we could not see the car due to excessive traffic
+9666,Car,06:12:52 PM,4012,136.0,186.0,0.0,65.0,73.0,Actual Manual Data
+2469 (SYN),Bus,06:16:00 PM,4200,94.27,189.0,0.0,61.0,62.0,Synthetic Data
+3825 (SYN),Car,06:18:00 PM,4320,104.59,222.0,0.0,73.0,79.0,Synthetic Data
+3222 (SYN),Bus,06:20:00 PM,4440,94.49,191.0,3.0,62.0,68.0,Synthetic Data
+9524 (SYN),Bike,06:22:00 PM,4560,101.48,211.0,0.0,68.0,75.0,Synthetic Data
+8375 (SYN),Bike,06:24:00 PM,4680,101.99,197.0,0.0,65.0,70.0,Synthetic Data
+8098 (SYN),Bike,06:26:00 PM,4800,96.65,213.0,0.0,70.0,75.0,Synthetic Data
+3089 (SYN),Bike,06:28:00 PM,4920,89.5,189.0,4.0,61.0,66.0,Synthetic Data
+5859 (SYN),Bike,06:30:00 PM,5040,94.27,189.0,0.0,61.0,62.0,Synthetic Data
+3027 (SYN),Bike,06:32:00 PM,5160,104.59,222.0,0.0,73.0,79.0,Synthetic Data
