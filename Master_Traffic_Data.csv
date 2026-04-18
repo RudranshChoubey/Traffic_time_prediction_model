@@ -8,29 +8,29 @@ Vehicle No.,Class,Actual Start Time,Start Time (Elapsed Sec),Time to 500m (sec),
 3561,Auto,11:50:00 AM,2400,192.73,254.0,2.0,64.0,72.0,Actual Manual Data
 8152,Van,12:07:00 PM,3420,187.29,252.0,1.0,64.0,71.0,Actual Manual Data
 9057,Scooter,12:13:00 PM,3780,118.13,210.0,4.0,53.0,59.0,Actual Manual Data
-1470,Bike,05:08:03 PM,123,1173.0,1236.0,0.0,437.0,488.0,Actual Manual Data (Clock Synced)
-3724,Car,05:14:35 PM,515,CNS,220.0,0.0,,,Raw Data (Could Not See 500m)
-3724 (EST),Car,05:14:35 PM,515,121.0,220.0,0.0,77.0,86.0,500m estimated value as we could not see the car due to excessive traffic
-9124,Car,05:14:43 PM,523,132.0,240.0,0.0,84.0,94.0,Actual Manual Data (Clock Synced)
-2289,Bus,05:15:40 PM,580,440.0,495.0,0.0,175.0,195.0,Actual Manual Data (Clock Synced)
-2247,Bus,05:19:43 PM,823,132.0,240.0,6.0,84.0,94.0,Actual Manual Data (Clock Synced)
-3972,Truck,05:20:37 PM,877,132.0,240.0,4.0,84.0,94.0,Actual Manual Data (Clock Synced)
-9424,Car,05:22:25 PM,985,132.0,240.0,2.0,84.0,94.0,Actual Manual Data (Clock Synced)
-1807,Bus,05:23:46 PM,1066,CNS,95.0,0.0,,,Raw Data (Could Not See 500m)
-1807 (EST),Bus,05:23:46 PM,1066,31.0,95.0,0.0,33.0,37.0,500m estimated value as we could not see the car due to excessive traffic
-129,Bus,05:25:17 PM,1157,46.0,122.0,10.0,43.0,48.0,Actual Manual Data (Clock Synced)
-8831,Car,05:27:40 PM,1300,96.0,175.0,0.0,61.0,69.0,Actual Manual Data (Clock Synced)
+1470,Bike,05:08:03 PM,123,1173.0,1236.0,0.0,437.0,488.0,Actual Manual Data
+3724,Car,05:14:35 PM,515,151.0964285714286,220.0,0.0,80.7,88.975,Actual Manual Data
+3724,Car,05:14:35 PM,515,121.0,220.0,0.0,77.0,86.0,Actual Manual Data
+9124,Car,05:14:43 PM,523,132.0,240.0,0.0,84.0,94.0,Actual Manual Data
+2289,Bus,05:15:40 PM,580,440.0,495.0,0.0,175.0,195.0,Actual Manual Data
+2247,Bus,05:19:43 PM,823,132.0,240.0,6.0,84.0,94.0,Actual Manual Data
+3972,Truck,05:20:37 PM,877,132.0,240.0,4.0,84.0,94.0,Actual Manual Data
+9424,Car,05:22:25 PM,985,132.0,240.0,2.0,84.0,94.0,Actual Manual Data
+1807,Bus,05:23:46 PM,1066,130.37473684210525,95.0,0.0,73.63157894736842,81.3157894736842,Actual Manual Data
+1807,Bus,05:23:46 PM,1066,31.0,95.0,0.0,33.0,37.0,Actual Manual Data
+129,Bus,05:25:17 PM,1157,46.0,122.0,10.0,43.0,48.0,Actual Manual Data
+8831,Car,05:27:40 PM,1300,96.0,175.0,0.0,61.0,69.0,Actual Manual Data
 4665,Bus,05:29:53 PM,1433,123.0,183.0,10.0,64.0,72.0,Actual Manual Data
-4896,Car,05:30:01 PM,1441,223.0,VNR,0.0,,,Raw Data (Vehicle Not Reached 1km)
-4896 (EST),Car,05:30:01 PM,1441,223.0,255.0,0.0,90.0,100.0,1km estimated value as we could not see the car due to excessive traffic
+4896,Car,05:30:01 PM,1441,223.0,228.65024390243906,0.0,80.7,88.975,Actual Manual Data
+4896,Car,05:30:01 PM,1441,223.0,255.0,0.0,90.0,100.0,Actual Manual Data
 3030,Car,05:31:14 PM,1514,91.0,145.0,0.0,51.0,57.0,Actual Manual Data
 8449,Bus,05:32:56 PM,1616,100.0,148.0,0.0,52.0,58.0,Actual Manual Data
 4331,Car,05:34:14 PM,1694,291.0,349.0,0.0,123.0,137.0,Actual Manual Data
 376,Bus,05:40:10 PM,2050,131.0,216.0,0.0,76.0,85.0,Actual Manual Data
 8105,Car,05:40:48 PM,2088,114.0,188.0,0.0,66.0,74.0,Actual Manual Data
 6653,Bus,05:47:35 PM,2495,110.0,208.0,10.0,73.0,82.0,Actual Manual Data
-8926,Car,05:48:20 PM,2540,180.0,VNR,0.0,,,Raw Data (Could Not See 1km)
-8926 (EST),Car,05:48:20 PM,2540,180.0,333.0,0.0,117.0,131.0,1km estimated value as we could not see the car due to excessive traffic
+8926,Car,05:48:20 PM,2540,180.0,228.65024390243906,0.0,80.7,88.975,Actual Manual Data
+8926,Car,05:48:20 PM,2540,180.0,333.0,0.0,117.0,131.0,Actual Manual Data
 4984,Car,05:48:57 PM,2577,164.0,303.0,0.0,107.0,119.0,Actual Manual Data
 4588,Car,05:49:36 PM,2616,168.0,221.0,2.0,78.0,87.0,Actual Manual Data
 5707,Bus,05:51:45 PM,2745,111.0,202.0,17.0,71.0,79.0,Actual Manual Data
@@ -42,15 +42,60 @@ Vehicle No.,Class,Actual Start Time,Start Time (Elapsed Sec),Time to 500m (sec),
 2228,Bus,06:02:14 PM,3374,218.0,244.0,25.0,86.0,96.0,Actual Manual Data
 1155,Car,06:03:10 PM,3430,169.0,218.0,0.0,77.0,86.0,Actual Manual Data
 174,Car,06:07:52 PM,3712,150.0,209.0,10.0,73.0,82.0,Actual Manual Data
-5298,Truck,06:08:30 PM,3750,146.0,VNR,3.0,,,Raw Data (Could Not See 1km)
-5298 (EST),Truck,06:08:30 PM,3750,146.0,270.0,3.0,95.0,106.0,1km estimated value as we could not see the car due to excessive traffic
+5298,Truck,06:08:30 PM,3750,146.0,252.24666666666667,3.0,79.33333333333333,84.5,Actual Manual Data
+5298,Truck,06:08:30 PM,3750,146.0,270.0,3.0,95.0,106.0,Actual Manual Data
 9666,Car,06:12:52 PM,4012,136.0,186.0,0.0,65.0,73.0,Actual Manual Data
-2469 (SYN),Bus,06:16:00 PM,4200,94.27,189.0,0.0,61.0,62.0,Synthetic Data
-3825 (SYN),Car,06:18:00 PM,4320,104.59,222.0,0.0,73.0,79.0,Synthetic Data
-3222 (SYN),Bus,06:20:00 PM,4440,94.49,191.0,3.0,62.0,68.0,Synthetic Data
-9524 (SYN),Bike,06:22:00 PM,4560,101.48,211.0,0.0,68.0,75.0,Synthetic Data
-8375 (SYN),Bike,06:24:00 PM,4680,101.99,197.0,0.0,65.0,70.0,Synthetic Data
-8098 (SYN),Bike,06:26:00 PM,4800,96.65,213.0,0.0,70.0,75.0,Synthetic Data
-3089 (SYN),Bike,06:28:00 PM,4920,89.5,189.0,4.0,61.0,66.0,Synthetic Data
-5859 (SYN),Bike,06:30:00 PM,5040,94.27,189.0,0.0,61.0,62.0,Synthetic Data
-3027 (SYN),Bike,06:32:00 PM,5160,104.59,222.0,0.0,73.0,79.0,Synthetic Data
+2469,Bus,06:16:00 PM,4200,94.27,189.0,0.0,61.0,62.0,Synthetic Data
+3825,Car,06:18:00 PM,4320,104.59,222.0,0.0,73.0,79.0,Synthetic Data
+3222,Bus,06:20:00 PM,4440,94.49,191.0,3.0,62.0,68.0,Synthetic Data
+9524,Bike,06:22:00 PM,4560,101.48,211.0,0.0,68.0,75.0,Synthetic Data
+8375,Bike,06:24:00 PM,4680,101.99,197.0,0.0,65.0,70.0,Synthetic Data
+8098,Bike,06:26:00 PM,4800,96.65,213.0,0.0,70.0,75.0,Synthetic Data
+3089,Bike,06:28:00 PM,4920,89.5,189.0,4.0,61.0,66.0,Synthetic Data
+5859,Bike,06:30:00 PM,5040,94.27,189.0,0.0,61.0,62.0,Synthetic Data
+3027,Bike,06:32:00 PM,5160,104.59,222.0,0.0,73.0,79.0,Synthetic Data
+2028,Car,5:09:04 PM,544,122.0,190.0,0.0,87.0,95.0,Actual Manual Data
+6006,Car,5:09:58 PM,598,98.0,162.0,10.0,62.0,95.0,Actual Manual Data
+1055,Car,5:12:10 PM,730,180.0,242.0,7.0,91.0,90.0,Actual Manual Data
+612,Car,5:13:21 PM,801,161.0,205.0,5.0,88.0,76.0,Actual Manual Data
+6742,Car,5:16:38 PM,998,76.0,127.0,0.0,87.0,89.0,Actual Manual Data
+7168,Car,5:17:32 PM,1052,148.0,206.0,15.0,65.0,78.0,Actual Manual Data
+2241,Bus,5:20:17 PM,1217,139.0,164.0,4.0,71.0,72.0,Actual Manual Data
+4289,Scooter,5:22:49 PM,1369,126.0,218.99,0.0,69.0,99.0,Actual Manual Data
+1378,Auto,5:27:05 PM,1625,185.0,233.0,15.0,86.0,77.0,Actual Manual Data
+5368,Bus,5:30:20 PM,1820,150.0,228.0,0.0,81.0,85.0,Actual Manual Data
+8111,Car,5:32:17 PM,1937,145.0,205.0,4.0,80.0,81.0,Actual Manual Data
+7490,Truck,5:36:07 PM,2167,138.0,224.73,2.0,76.0,81.0,Actual Manual Data
+3630,Car,5:38:04 PM,2284,86.71,166.0,15.0,80.0,84.0,Actual Manual Data
+7742,Bike,5:40:14 PM,2414,133.0,236.73,0.0,85.0,93.0,Actual Manual Data
+4848,Car,5:42:28 PM,2548,152.0,237.54,2.0,83.0,73.0,Actual Manual Data
+1746,Bus,5:43:24 PM,2604,128.0,196.0,2.0,97.0,84.0,Actual Manual Data
+5261,Scooter,06:08:57 PM,4137,114.08,187.3,10.0,65.0,96.0,Synthetic Data
+8544,Bike,05:50:49 PM,3049,222.65,340.21,5.0,80.0,90.0,Synthetic Data
+1013,Car,06:37:44 PM,5864,164.64,258.6,0.0,68.0,92.0,Synthetic Data
+1884,Auto,05:49:30 PM,2970,179.24,273.73,10.0,63.0,97.0,Synthetic Data
+8423,Car,06:45:33 PM,6333,111.53,252.7,0.0,69.0,83.0,Synthetic Data
+7266,Auto,05:06:57 PM,417,179.64,241.32,7.0,81.0,107.0,Synthetic Data
+3565,Van,06:05:29 PM,3929,162.96,203.68,0.0,96.0,90.0,Synthetic Data
+8797,Truck,06:46:58 PM,6418,144.47,305.22,15.0,90.0,81.0,Synthetic Data
+3387,Car,06:05:25 PM,3925,165.98,264.66,2.0,75.0,81.0,Synthetic Data
+4399,Bike,05:41:01 PM,2461,261.75,304.56,25.0,96.0,109.0,Synthetic Data
+8301,Auto,06:53:16 PM,6796,167.15,268.84,15.0,73.0,84.0,Synthetic Data
+7382,Auto,06:24:20 PM,5060,184.97,204.97,2.0,81.0,95.0,Synthetic Data
+5443,Car,05:07:06 PM,426,177.44,279.95,5.0,81.0,88.0,Synthetic Data
+4397,Car,06:59:29 PM,7169,173.04,236.66,0.0,68.0,77.0,Synthetic Data
+1492,Car,06:52:23 PM,6743,200.86,222.62,0.0,76.0,74.0,Synthetic Data
+6119,Van,06:52:46 PM,6766,157.81,193.65,0.0,91.0,91.0,Synthetic Data
+4910,Bike,06:22:45 PM,4965,255.92,304.16,7.0,82.0,79.0,Synthetic Data
+8199,Bus,06:05:54 PM,3954,149.16,169.16,10.0,91.0,104.0,Synthetic Data
+5491,Scooter,05:05:24 PM,324,153.48,173.48,2.0,86.0,86.0,Synthetic Data
+9742,Car,06:15:44 PM,4544,152.84,253.96,5.0,90.0,87.0,Synthetic Data
+1167,Car,06:20:32 PM,4832,171.54,219.61,7.0,84.0,95.0,Synthetic Data
+5302,Bus,05:41:19 PM,2479,81.63,214.27,15.0,61.0,93.0,Synthetic Data
+2940,Truck,05:23:21 PM,1401,186.1,222.53,7.0,68.0,74.0,Synthetic Data
+3688,Bike,05:38:52 PM,2332,236.27,332.78,5.0,78.0,88.0,Synthetic Data
+9676,Auto,06:31:32 PM,5492,175.58,223.83,7.0,75.0,81.0,Synthetic Data
+6316,Scooter,05:08:02 PM,482,111.11,202.13,5.0,80.0,89.0,Synthetic Data
+5309,Van,05:52:07 PM,3127,124.74,244.31,0.0,82.0,97.0,Synthetic Data
+5143,Car,05:43:50 PM,2630,147.13,215.82,10.0,90.0,98.0,Synthetic Data
+7840,Car,06:13:03 PM,4383,143.29,223.54,0.0,80.0,100.0,Synthetic Data
