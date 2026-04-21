@@ -2,3 +2,8 @@ streamlit
 pandas
 scikit-learn
 joblib
+numpy
+scipy
+matplotlib
+seaborn
+sklearn.metrics
